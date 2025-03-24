@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkphotobooth=self.webpackChunkphotobooth||[]).push([[7067],{7067:(o,t,e)=>{o.exports=e.p+"static/media/1.1de10b3950d7fd6a14cd.png"}}]);
