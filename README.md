@@ -1,9 +1,13 @@
 # 🚀 Welcome to Fancy Bear
-<code>Last updated: March 28, 2025</code>
+<code>Last updated: May 9, 2025</code>
 
 Inspired by <b>Korean 4-cut photobooths</b>, Fancy Bear Photobooth brings you the online experience, available anytime, anywhere.
 
 <a href="https://nenceh.github.io/fancybear/" target="_blank"><img src="logo.png" alt="Fancy Bear Photobooth logo" style="width:20dvw;"/></a>
+
+See also my project write-up: [Fancy Bear | Online Photobooth](https://nenceh.github.io/portfolio/fancybear-photobooth.html)
+
+<br/>
 
 ## On this page:
   1. [👉 We are bringing the photo booth to you!](#-we-are-bringing-the-photo-booth-to-you)
@@ -54,7 +58,7 @@ Capture the moment in the cutest 4-cut format.
 \* <i>Love and Deepspace</i> is a mobile game. See the official website [here](https://loveanddeepspace.infoldgames.com/).
 
 <br/>
-3. <b>Setup</b> your device's camera
+3. <b>Set up</b> your device's camera
 
 - Set a countdown timer for each photo (default: 3 seconds)
 - Choose and apply a camera filter
